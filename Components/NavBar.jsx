@@ -10,7 +10,7 @@ export default () => {
     { title: "Services", path: "#" },
     { title: "Contact Us", path: "#" },
     { title: "Erc20", path: "#" },
-     { title: "Erc20", path: "https://ug-project-main.vercel.app/" },
+     { title: "Admin Dashboard", path: "https://admin-dashboard-for-ug.vercel.app/" },
   ];
 
   useEffect(() => {
