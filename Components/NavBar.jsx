@@ -6,10 +6,6 @@ export default () => {
   const { currentUser, connectWallet } = useContext(TrackingContext);
 
   const navigation = [
-    { title: "Home ", path: "#" },
-    { title: "Services", path: "#" },
-    { title: "Contact Us", path: "#" },
-    { title: "Erc20", path: "#" },
      { title: "Admin Dashboard", path: "https://admin-dashboard-for-ug.vercel.app/" },
   ];
 
